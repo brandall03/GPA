@@ -21,5 +21,5 @@ A simple and user-friendly GPA calculator built with Python and Tkinter. This ap
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/gpa.git
+git clone https://github.com/brandall03/gpa.git
 cd gpa-calculator
