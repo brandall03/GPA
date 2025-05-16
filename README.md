@@ -1,24 +1,30 @@
-# GPA Calculator
+# GPA Calculator 🎓
 
-A simple and user-friendly GPA calculator built with Python and Tkinter. This application allows students to input their current GPA, completed credit hours, and upcoming courses to estimate their new GPA based on expected grades.
+A modern, intuitive GPA calculator built with Python and Tkinter. This tool allows students to compute both their current and projected GPA using a variety of grading inputs including GPA points, letter grades, and percentage scores.
 
-## Features
+---
 
-- Clean graphical user interface (GUI) using Tkinter
-- Enter current GPA and completed credit hours
-- Add multiple upcoming courses with expected grades and credits
-- Easily add or remove courses from the list
-- Calculates and displays projected GPA in real-time
-- Dark-themed interface for improved readability
+## 🔧 Features
 
-## Screenshots
+- Clean dark-themed **Tkinter GUI**
+- Supports **letter grades**, **4.0 scale GPA values**, and **percentages (0–100%)**
+- Dynamically add/remove upcoming courses
+- Converts percentage → letter → GPA point automatically
+- Displays **current GPA** based on total points and credits
+- Computes and displays **projected GPA** based on future course plans
+- Gracefully handles user input errors
 
-![GPA Calculator UI](#)  
-*Coming Soon – Screenshot of the application UI.*
+---
 
-## Installation
+## 📷 Screenshot
 
-1. **Clone the repository**
+![App Screenshot](.GPA_Calulator.png)
+
+---
+
+## Getting Started
+
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/brandall03/gpa.git
