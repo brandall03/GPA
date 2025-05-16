@@ -18,7 +18,7 @@ A modern, intuitive GPA calculator built with Python and Tkinter. This tool allo
 
 ## 📷 Screenshot
 
-![App Screenshot](.GPA_Calulator.png)
+![App Screenshot](./GPA_Calulator.png)
 
 ---
 
