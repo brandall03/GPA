@@ -1,10 +1,10 @@
-# GPA Calculator 🎓
+# GPA Calculator
 
 A modern, intuitive GPA calculator built with Python and Tkinter. This tool allows students to compute both their current and projected GPA using a variety of grading inputs including GPA points, letter grades, and percentage scores.
 
 ---
 
-## 🔧 Features
+## Features
 
 - Clean dark-themed **Tkinter GUI**
 - Supports **letter grades**, **4.0 scale GPA values**, and **percentages (0–100%)**
@@ -16,7 +16,7 @@ A modern, intuitive GPA calculator built with Python and Tkinter. This tool allo
 
 ---
 
-## 📷 Screenshot
+## Screenshot
 
 ![App Screenshot](./GPA_Calulator.png)
 
